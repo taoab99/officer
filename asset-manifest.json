@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/officer/static/css/main.336a8e74.chunk.css",
+    "main.js": "/officer/static/js/main.3f3c727c.chunk.js",
+    "main.js.map": "/officer/static/js/main.3f3c727c.chunk.js.map",
+    "runtime-main.js": "/officer/static/js/runtime-main.a574a7a7.js",
+    "runtime-main.js.map": "/officer/static/js/runtime-main.a574a7a7.js.map",
+    "static/js/2.48e066bd.chunk.js": "/officer/static/js/2.48e066bd.chunk.js",
+    "static/js/2.48e066bd.chunk.js.map": "/officer/static/js/2.48e066bd.chunk.js.map",
+    "static/js/3.2715737f.chunk.js": "/officer/static/js/3.2715737f.chunk.js",
+    "static/js/3.2715737f.chunk.js.map": "/officer/static/js/3.2715737f.chunk.js.map",
+    "index.html": "/officer/index.html",
+    "static/css/main.336a8e74.chunk.css.map": "/officer/static/css/main.336a8e74.chunk.css.map",
+    "static/js/2.48e066bd.chunk.js.LICENSE.txt": "/officer/static/js/2.48e066bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a574a7a7.js",
+    "static/js/2.48e066bd.chunk.js",
+    "static/css/main.336a8e74.chunk.css",
+    "static/js/main.3f3c727c.chunk.js"
+  ]
+}
