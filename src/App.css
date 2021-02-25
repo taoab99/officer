@@ -1,5 +1,9 @@
+*{
+  box-sizing: border-box;
+}
 .App {
-  text-align: center;
+  width: 100%;
+  
 }
 
 .App-logo {
@@ -35,4 +39,107 @@
   to {
     transform: rotate(360deg);
   }
+}
+.header{
+  width: 100%;
+  text-align: center;
+  
+}
+.container{
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/* style cho them cong viec */
+
+.additem{
+  width: 30%;
+  height: auto;
+}
+.control-item{
+  width: 70%;
+}
+.control-all{
+  width: 100%;
+}
+.dieukhien{
+  position: relative;
+}
+
+
+/* style cho cac items */
+
+.list-items{
+  width: 100%;
+}
+.list-items table{
+  width: 100%;
+  text-align: center;
+  border: 1px solid gray;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+th, td{
+  border: 1px solid black;
+
+}
+.pd{
+  padding: 2%;
+}
+.mg{
+  margin: 20px;
+}
+.boder{
+  border: 0.1px solid gray;
+}
+.inputwidth{
+  width: 100%;
+}
+input, select{
+  padding: 5px 0;
+}
+.bnt-orange{
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  padding: 5px;
+}
+.bg-green{
+  background-color: green;
+}
+.bnt-blue{
+  position:relative;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  padding: 5px;
+}
+.bnt-tomato{
+  background-color: tomato;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  padding: 5px;
+}
+.dropdow{
+  width: 100px;
+  padding: 0;
+  height: auto;
+  position: absolute;
+  top: 30px;
+  left: 250px;
+  background-color: red;
+  z-index: 2;
+}
+.dropdow li{
+  list-style-type: none;
+  color: white;
 }
